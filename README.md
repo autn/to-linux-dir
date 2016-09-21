@@ -1,5 +1,8 @@
-Convert to Linux directory style
-=========
+# Convert to Linux directory style #
+
+[![Build Status](https://img.shields.io/travis/autn/to-linux-dir/master.svg)](https://travis-ci.org/autn/to-linux-dir)
+[![Stable Version](https://img.shields.io/npm/v/to-linux-dir.svg)](https://www.npmjs.com/package/to-linux-dir)
+[![Download Status](https://img.shields.io/npm/dt/to-linux-dir.svg)](https://www.npmjs.com/package/to-linux-dir)
 
 A small library providing utility methods `toLinuxDir` to convert the directory path to Linux style
 
@@ -27,4 +30,4 @@ AuTN
 
 * 1.0.4 Publish package
 
-=======
+* 1.0.5 Update readme
