@@ -3,15 +3,11 @@ Convert to Linux directory style
 
 A small library providing utility methods `toLinuxDir` to convert the directory path to Linux style
 
-## Installation
-
-  npm install t --save
-
 ## Usage
 
-  var vCheck = require('v-check-card');
+  var dLinux = require('to-linux-dir');
 
-  console.log(vCheck.checkCard('1111222233334444'));
+  var ouput = dLinux.toLinuxDir('to/path/file.js');
 
 ## Tests
 
@@ -19,7 +15,7 @@ A small library providing utility methods `toLinuxDir` to convert the directory 
 
 ## Contributing
 
-Vinhlv
+AuTN
 
 ## Release History
 
