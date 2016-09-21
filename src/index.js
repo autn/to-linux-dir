@@ -1,8 +1,10 @@
-module.exports = {
-  toLinuxDir: function(inputDir, callback) {
-    var input = inputDir;
-    var output = inputDir.replace(/\\/g, '\/');
+var toLinuxDirStyle = function toLinuxDir(inputDir, callback) {
+  var input = inputDir;
+  var output = input.replace(/\\/g, '/');
 
-    return callback(output);
-  }
+  return callback(output);
+};
+
+module.exports = {
+  toLinuxDir: toLinuxDirStyle
 };
