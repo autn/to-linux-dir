@@ -1,10 +1,11 @@
 {
   "name": "to-linux-dir",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Convert directory to Linux style",
   "main": "src/index/js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test"
+    "test": "./node_modules/.bin/mocha test",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
