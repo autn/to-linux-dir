@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/autn/to-linux-dir/master.svg)](https://travis-ci.org/autn/to-linux-dir)
 [![Stable Version](https://img.shields.io/npm/v/to-linux-dir.svg)](https://www.npmjs.com/package/to-linux-dir)
 [![Download Status](https://img.shields.io/npm/dt/to-linux-dir.svg)](https://www.npmjs.com/package/to-linux-dir)
-[![Coverage Status](https://coveralls.io/repos/github/autn/to-linux-dir/badge.svg)](https://coveralls.io/github/autn/to-linux-dir)
+[![Coverage Status](https://coveralls.io/repos/github/autn/to-linux-dir/badge.svg?branch=master)](https://coveralls.io/github/autn/to-linux-dir?branch=master)
 [![License](https://img.shields.io/github/license/autn/to-linux-dir.svg)](https://github.com/autn/to-linux-dir/master/LICENSE)
 
 A small library providing utility methods `toLinuxDir` to convert the directory path to Linux style
