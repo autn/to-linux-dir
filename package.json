@@ -1,6 +1,6 @@
 {
   "name": "to-linux-dir",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Convert directory to Linux style",
   "main": "src/index/js",
   "scripts": {

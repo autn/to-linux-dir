@@ -41,5 +41,5 @@ AuTN
 
   * 1.0.5 Update readme
 
-  * 1.1.0 Coverage status
+  * 1.1.1 Coverage status
 ```
