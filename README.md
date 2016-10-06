@@ -10,17 +10,23 @@ A small library providing utility methods `toLinuxDir` to convert the directory 
 
 ## Installation
 
+```js
   npm install to-linux-dir --save
+```
 
 ## Usage
 
+```js
   var dLinux = require('to-linux-dir');
 
   var ouput = dLinux.toLinuxDir('to\path\file.js'); // return 'to/path/file.js'
+```
 
 ## Tests
 
+```js
   npm test
+```
 
 ## Contributing
 
@@ -28,10 +34,12 @@ AuTN
 
 ## Release History
 
-* 1.0.0 Initial release
+```js
+  * 1.0.0 Initial release
 
-* 1.0.4 Publish package
+  * 1.0.4 Publish package
 
-* 1.0.5 Update readme
+  * 1.0.5 Update readme
 
 * 1.1.0 Coverage status
+```
