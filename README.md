@@ -34,12 +34,12 @@ AuTN
 
 ## Release History
 
-```js
+```sh
   * 1.0.0 Initial release
 
   * 1.0.4 Publish package
 
   * 1.0.5 Update readme
 
-* 1.1.0 Coverage status
+  * 1.1.0 Coverage status
 ```
